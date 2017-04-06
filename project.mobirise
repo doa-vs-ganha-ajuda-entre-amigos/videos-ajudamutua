@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Videos Doa VS Ganha",
-    "currentPage": "inicio",
+    "currentPage": "passo-1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -272,7 +272,7 @@
               "color": "#28262b"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#000000"
             }
           },
           "_tags": [
