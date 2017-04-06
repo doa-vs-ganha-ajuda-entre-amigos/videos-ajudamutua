@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Videos Doa VS Ganha",
-    "currentPage": "passo-1",
+    "currentPage": "inicio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     "inicio": {
       "settings": {
         "main": true,
-        "title": "início",
+        "title": "Início",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -155,7 +155,7 @@
     },
     "passo-1": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Passo a Passo",
         "meta_descr": "Website Builder Description"
       },
       "components": [
@@ -326,7 +326,7 @@
     },
     "passo-2": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Baixar Aplicativo",
         "meta_descr": "Website Builder Description"
       },
       "components": [
@@ -695,7 +695,7 @@
     },
     "passo-3": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Fazer a Doação",
         "meta_descr": "Website Builder Description"
       },
       "components": [
@@ -866,7 +866,7 @@
     },
     "passo-4": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Seu Nome na Lista",
         "meta_descr": "Website Builder Description"
       },
       "components": [
