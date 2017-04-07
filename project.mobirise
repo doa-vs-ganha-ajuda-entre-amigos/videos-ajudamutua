@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Videos Doa VS Ganha",
-    "currentPage": "passo-3",
+    "currentPage": "inicio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
