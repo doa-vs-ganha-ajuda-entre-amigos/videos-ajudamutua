@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Videos Doa VS Ganha",
-    "currentPage": "passo-4",
+    "currentPage": "passo-2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1076,7 +1076,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/wB87js-fRuk",
+              "src": "https://www.youtube.com/watch?v=9XnbIqPObvA",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
