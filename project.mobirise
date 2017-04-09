@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Videos Doa VS Ganha",
-    "currentPage": "passo-2",
+    "currentPage": "passo-3",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -904,7 +904,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/wB87js-fRuk",
+              "src": "https://www.youtube.com/watch?v=JI8wtpcMHMQ",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -916,7 +916,7 @@
             }
           },
           "title": "Fazer a doação",
-          "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp Suporte:<br>",
+          "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp Suporte... Lembre-se também ao efetuar a doação enviar comprovante da transação para pessoa que recebeu e também para o admin do grupo.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://chat.whatsapp.com/invite/31zG1b9QBvN4TL4dKVrBxr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;SUPORTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"passo-4\" data-toolbar=\"-mbrBtnMove\">CONTINUAR...</a>"
         }
       ]
