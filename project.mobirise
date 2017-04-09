@@ -734,7 +734,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=b0MotQz6aVE",
+              "src": "https://www.youtube.com/watch?v=4Y4ntCrn_RY",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -807,7 +807,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f28281!important"
+              "color": "#b8312f!important"
             }
           },
           "_name": "ext.menu",
