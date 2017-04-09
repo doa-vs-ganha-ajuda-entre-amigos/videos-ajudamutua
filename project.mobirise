@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Videos Doa VS Ganha",
-    "currentPage": "passo-4",
+    "currentPage": "passo-2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#b8312f",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -209,7 +209,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f28281!important"
+              "color": "#b8312f!important"
             }
           },
           "_name": "ext.menu",
@@ -380,7 +380,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f28281!important"
+              "color": "#b8312f!important"
             }
           },
           "_name": "ext.menu",
@@ -497,7 +497,8 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#b8312f",
+              "font-size": "36px"
             },
             ".mbr-section-text": {
               "color": "#000000"
@@ -546,8 +547,8 @@
               "size": 250
             }
           },
-          "title": "Um pouco do App",
-          "text": "Este Aplicativo é muito útil no dia a dia.&nbsp;(Mais vídeos abaixo)",
+          "title": "ATENÇÃO NÃO BAIXE O APP",
+          "text": "Por enquanto, pois você &nbsp;deve entender todos os passos para então ganhar a bonificação de 9 reais... Neste vídeo você vê um geral sobre o App veja que este Aplicativo é muito útil no dia a dia.&nbsp;(Mais vídeos abaixo)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1087,7 +1088,7 @@
             }
           },
           "title": "Passo  Final",
-          "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>DO SEU NOME NA LISTA... <a href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/listas-ajudamutua/1fase\" target=\"_blank\">CLIQUE AQUI LISTAGEM FASE-1</a><br>",
+          "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>DO SEU NOME NA LISTA... <a href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/listas-ajudamutua/1fase\" target=\"_blank\" class=\"text-danger\">CLIQUE AQUI LISTAGEM FASE-1</a><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"passo-1\" data-toolbar=\"-mbrBtnMove\">VOLTAR ETAPAS</a>"
         }
       ]
