@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "Videos Doa VS Ganha",
-    "currentPage": "passo-3",
+    "currentPage": "passo-4",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f28281",
+        "primaryColor": "#b8312f",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -1087,7 +1087,7 @@
             }
           },
           "title": "Passo  Final",
-          "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>DO SEU NOME NA LISTA...<br>",
+          "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>DO SEU NOME NA LISTA... <a href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/listas-ajudamutua/1fase\" target=\"_blank\">CLIQUE AQUI LISTAGEM FASE-1</a><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"passo-1\" data-toolbar=\"-mbrBtnMove\">VOLTAR ETAPAS</a>"
         }
       ]
